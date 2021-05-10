@@ -1,0 +1,32 @@
+.center {
+    justify-content: center;
+}
+
+.full-width {
+    width: 100%;
+    position: absolute !important;
+    top: 0;
+}
+
+.full-card {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    height: 100%;
+}
+
+.icon-center {
+    text-align: center;
+}
+
+.tabs-center {
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.weather-description {
+    font-size: small;
+}
